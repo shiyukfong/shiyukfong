@@ -1,7 +1,5 @@
-### Yoooo! 👋
-- 📖 CUHK '25 | AIST | S.H.Ho
-- 🎮 Froza Horizon 5 | Minecraft | Stellaris | etc.
-- ❤️ Coding | Mathematics | Reading | Gaming | Cycling | Hiking | Running
+- 📖 UWisc '30 CS PhD | CUHK '25 AIST  S.H. Ho
+- ❤️ Optimization | Machine Learning | Reading | Gaming | Cycling | Hiking | Running
 <!-- - 🔗 Personal Blog -->
 <!--
 **dmddjack/dmddjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
